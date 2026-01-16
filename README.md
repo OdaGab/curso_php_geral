@@ -16,3 +16,4 @@
      13 - Tipo Null
      14 - Tipo Constantes
      15 - Operadores
+     16 - Relacionais

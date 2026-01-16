@@ -59,4 +59,6 @@ echo "Resultado da Operação com Callback: " . $resultadoFinal . "\n";
 echo "Desconto aplicado: " . $desconto . "\n";
 echo "Fim do script.\n";
 
+
+
 ?>
