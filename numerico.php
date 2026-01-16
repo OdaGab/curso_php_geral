@@ -23,7 +23,9 @@
     $temperatura = -3.5; // Número decimal negativo
 
     // Exibindo o valor das variáveis do tipo Float
-    
+
     echo "Altura: " . $altura . "m\n";
     echo "Temperatura: " . $temperatura . "°C\n";
+
+    
 ?>
