@@ -14,3 +14,4 @@
      11 - Tipo Misto
      12 - Tipo Call Back
      13 - Tipo Null
+     14 - Tipo Constantes
