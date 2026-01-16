@@ -20,7 +20,10 @@
     var_dump("Teste de var_dump");
 
     // Exemplo utilizando print_r para arrays
-    $array = array("maçã", "banana", "laranja");
+    $array = array("Johann", "Dominique", "Liam");
     var_dump($array);
+
+    // Usando print_r para exibir o conteúdo do array de forma legível
+    print_r($array);
 
    ?>
