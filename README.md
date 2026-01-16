@@ -5,11 +5,12 @@
      02 - Comentários
      03 - Comandos de Saída
      04 - Maneira de declarar variáveis em PHP
-     05 - Tiupo Booleano
+     05 - Tipo Booleano
      06 - Tipo Númerico
      07 - Tipo String
      08 - Tipo Array
      09 - Tipo Objeto
      10 - Tipo Recurso
      11 - Tipo Misto
-     12 - Call Back
+     12 - Tipo Call Back
+     13 - Tipo Null
