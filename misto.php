@@ -26,6 +26,7 @@ function processaValor(mixed $valor): mixed {
     } else {
         echo "Outro tipo recebido: " . get_debug_type($valor) . "\n";
         return $valor;
+        // Retorna o valor original para outros tipos
     }
 }
 
