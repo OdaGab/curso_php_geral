@@ -4,4 +4,4 @@
      1 - Delimitador
      2 - Comentários
      3 - Comandos de Saída
-     4 - Maneira de declarar variaveis em PHP
+     4 - Maneira de declarar variáveis em PHP
