@@ -1,12 +1,13 @@
 ## - Curso de PHP - Exemplos e exercícios
 
      Básico
-     1 - Delimitador
-     2 - Comentários
-     3 - Comandos de Saída
-     4 - Maneira de declarar variáveis em PHP
-     5 - Tiupo Booleano
-     6 - Tipo Númerico
-     7 - Tipo String
-     8 - Tipo Array
-
+     01 - Delimitador
+     02 - Comentários
+     03 - Comandos de Saída
+     04 - Maneira de declarar variáveis em PHP
+     05 - Tiupo Booleano
+     06 - Tipo Númerico
+     07 - Tipo String
+     08 - Tipo Array
+     09 - Tipo Objeto
+     10 - Tipo Recurso
