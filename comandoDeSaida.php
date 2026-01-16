@@ -19,4 +19,8 @@
     // Exibe informações detalhadas sobre uma variável
     var_dump("Teste de var_dump");
 
+    // Exemplo utilizando print_r para arrays
+    $array = array("maçã", "banana", "laranja");
+    var_dump($array);
+
    ?>
