@@ -18,4 +18,4 @@
      15 - Operadores
      16 - Relacionais
      17 - Comandos if - else (simples)
-     18 - Comandos Logicos
+     18 - Comandos Lógicos
