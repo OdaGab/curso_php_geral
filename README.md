@@ -11,3 +11,4 @@
      08 - Tipo Array
      09 - Tipo Objeto
      10 - Tipo Recurso
+     11 - Tipo Misto
