@@ -24,3 +24,4 @@
      21 - Do While
      22 - Switch
      23 - foreach
+     24 - continue
