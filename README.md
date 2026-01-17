@@ -35,3 +35,5 @@
      32 - Exemplo de Recursão
      33 - Manipulação de arquivos (Sobrescrevendo o arquivo)
      34 - Exemplo de uso da função fopen, fwrite, fclose, fgets, feof.
+     35 - Exemplo file_put_contents
+     36 - Exemplo file_get_contents

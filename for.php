@@ -1,8 +1,8 @@
 <?php
 
-    // Example of a for loop in PHP
+    // Exemplo de um loop for em PHP
     for ($i = 1; $i <= 5; $i++) {
-        echo "Iteration number: " . $i . "\n";
+        echo "Número da iteração: " . $i . "\n";
     }   
 ?>
-    // fique atento para o fechamento da tag php
+  
