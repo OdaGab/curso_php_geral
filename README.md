@@ -20,3 +20,4 @@
      17 - Comandos if - else (simples)
      18 - Comandos Lógicos
      19 - while
+     20 - for
