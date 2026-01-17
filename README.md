@@ -27,4 +27,4 @@
      24 - continue
      25 - Breack
      26 - Manipulação de arquivos (Mantendo o arquivo)
-
+     27 - Include (Simples)
