@@ -19,6 +19,7 @@
      16 - Relacionais
      17 - Comandos if - else (simples)
      18 - Comandos Lógicos
-     19 - while
-     20 - for
+     19 - While
+     20 - For
      21 - Do While
+     22 - Switch
