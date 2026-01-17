@@ -1,2 +1,1 @@
-Este é um exemplo de manipulação de arquivos em PHP.
-Estamos escrevendo algumas linhas neste arquivo.
+Olá, Mundo!
