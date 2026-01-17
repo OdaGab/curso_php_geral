@@ -30,3 +30,4 @@
      27 - Include (Simples)
      28 - Função Simples
      29 - Variáveis globais
+     30 - Variáveis estáticas
