@@ -34,3 +34,4 @@
      31 - Passagem de parâmetros
      32 - Exemplo de Recursão
      33 - Manipulação de arquivos (Sobrescrevendo o arquivo)
+     34 - Exemplo de uso da função fopen, fwrite, fclose, fgets, feof.

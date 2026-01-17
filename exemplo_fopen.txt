@@ -1,0 +1,2 @@
+Este é um exemplo de uso da função fopen em PHP.
+Estamos escrevendo várias linhas de texto.
