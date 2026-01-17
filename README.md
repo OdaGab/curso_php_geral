@@ -31,3 +31,4 @@
      28 - Função Simples
      29 - Variáveis globais
      30 - Variáveis estáticas
+     31 - Passagem de parâmetros
