@@ -23,13 +23,15 @@
     } else {
         echo "Erro ao abrir o arquivo para leitura.\n";
     }
-    // Apagar o arquivo
+    // Apagar o arquivo caso queira apagar o arquivo, descomente o código abaixo
+    /*
     if (file_exists($nomeDoArquivo)) {
         unlink($nomeDoArquivo);
         echo "Arquivo apagado com sucesso.\n";
     } else {
         echo "O arquivo não existe.\n";
     }
+        */
 ?>
 <?php
     // Exercícios
