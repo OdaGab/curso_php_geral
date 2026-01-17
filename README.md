@@ -26,3 +26,4 @@
      23 - foreach
      24 - continue
      25 - Breack
+     26 - Manipulação de arquivos
