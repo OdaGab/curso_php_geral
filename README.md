@@ -50,6 +50,7 @@
      47 - Exemplo opendir
      48 - Exemplo closedir
      49 - Exemplo readdir
+     50 - Manipulação de Strings
 
 ## Curso de PHP - Exemplos e exercícios
 
