@@ -51,6 +51,8 @@
      48 - Exemplo closedir
      49 - Exemplo readdir
      50 - Manipulação de Strings
+     51 - Concatenação de Strings
+
 
 ## Curso de PHP - Exemplos e exercícios
 
