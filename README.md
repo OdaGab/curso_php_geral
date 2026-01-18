@@ -49,6 +49,7 @@
      46 - Exemplo rmdir
      47 - Exemplo opendir
      48 - Exemplo closedir
+     49 - Exemplo readdir
 
 ## Curso de PHP - Exemplos e exercícios
 
