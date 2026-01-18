@@ -40,3 +40,4 @@
      37 - file (lendo linhas do arquivo)
      38 - copy (copiando um arquivo)
      39 - Renomeando um arquivo
+     40 - utilizando unlink
