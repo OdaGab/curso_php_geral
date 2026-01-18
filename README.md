@@ -38,3 +38,4 @@
      35 - Exemplo file_put_contents
      36 - Exemplo file_get_contents
      37 - file (lendo linhas do arquivo)
+     38 - copy (copiando um arquivo)
