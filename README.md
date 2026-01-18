@@ -45,3 +45,5 @@
      42 - Exemplo is_file
      43 - Exemplo mkdir
      44 - Exemplo getcwd
+     45 - Exemplo chdir
+
