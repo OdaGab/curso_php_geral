@@ -37,3 +37,4 @@
      34 - Exemplo de uso da função fopen, fwrite, fclose, fgets, feof.
      35 - Exemplo file_put_contents
      36 - Exemplo file_get_contents
+     37 - file (lendo linhas do arquivo)
