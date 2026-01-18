@@ -52,7 +52,7 @@
      49 - Exemplo readdir
      50 - Manipulação de Strings
      51 - Concatenação de Strings
-
+     52 - Caracteres de Escape
 
 ## Curso de PHP - Exemplos e exercícios
 
