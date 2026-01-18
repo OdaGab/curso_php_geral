@@ -47,6 +47,7 @@
      44 - Exemplo getcwd
      45 - Exemplo chdir
      46 - Exemplo rmdir
+     47 - Exemplo opendir
 
 ## Curso de PHP - Exemplos e exercícios
 
