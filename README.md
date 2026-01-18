@@ -41,3 +41,4 @@
      38 - copy (copiando um arquivo)
      39 - Renomeando um arquivo
      40 - utilizando unlink
+     41 - file exists
