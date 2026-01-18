@@ -1,4 +1,4 @@
-## - Curso de PHP - Exemplos e exercícios
+## Curso de PHP - Exemplos e exercícios
 
      Básico
      01 - Delimitador
@@ -47,3 +47,7 @@
      44 - Exemplo getcwd
      45 - Exemplo chdir
 
+## Curso de PHP - Exemplos e exercícios
+
+     Avançado
+     Exemplo de API ViaCEP
