@@ -42,3 +42,4 @@
      39 - Renomeando um arquivo
      40 - utilizando unlink
      41 - file exists
+     42 - Exemplo is_file
