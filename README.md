@@ -54,6 +54,7 @@
      51 - Concatenação de Strings
      52 - Caracteres de Escape
      53 - Exemplo de uso: php strtoupper
+     54 - Exemplo de uso: php strtolower
 
 ## Curso de PHP - Exemplos e exercícios
 
