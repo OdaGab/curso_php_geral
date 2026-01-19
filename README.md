@@ -53,6 +53,7 @@
      50 - Manipulação de Strings
      51 - Concatenação de Strings
      52 - Caracteres de Escape
+     53 - Exemplo de uso: php strtoupper
 
 ## Curso de PHP - Exemplos e exercícios
 
