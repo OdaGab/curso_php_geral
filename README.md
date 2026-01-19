@@ -55,6 +55,7 @@
      52 - Caracteres de Escape
      53 - Exemplo de uso: php strtoupper
      54 - Exemplo de uso: php strtolower
+     55 - Função substr
 
 ## Curso de PHP - Exemplos e exercícios
 
