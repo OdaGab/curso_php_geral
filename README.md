@@ -59,6 +59,7 @@
      56 - Função strpad
      57 - função str_repeat
      58 - Função str_replace
+     59 - Função strlen
 
 ## Curso de PHP - Exemplos e exercícios
 
