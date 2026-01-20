@@ -57,6 +57,7 @@
      54 - Exemplo de uso: php strtolower
      55 - Função substr
      56 - Função strpad
+     57 - função str_repeat
 
 ## Curso de PHP - Exemplos e exercícios
 
