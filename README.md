@@ -58,6 +58,7 @@
      55 - Função substr
      56 - Função strpad
      57 - função str_repeat
+     58 - Função str_replace
 
 ## Curso de PHP - Exemplos e exercícios
 
