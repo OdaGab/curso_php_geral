@@ -60,6 +60,7 @@
      57 - função str_repeat
      58 - Função str_replace
      59 - Função strlen
+     60 - Função strpos
 
 ## Curso de PHP - Exemplos e exercícios
 
