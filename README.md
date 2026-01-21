@@ -61,6 +61,7 @@
      58 - Função str_replace
      59 - Função strlen
      60 - Função strpos
+     61 - Manipulação de Arrays
 
 ## Curso de PHP - Exemplos e exercícios
 
