@@ -64,6 +64,7 @@
      61 - Manipulação de Arrays
      62 - Arrays Associativos
      63 - Acesso a Arrays
+     64 - Arrays Multidimensionais
 
 ## Curso de PHP - Exemplos e exercícios
 
