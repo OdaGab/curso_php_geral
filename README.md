@@ -62,6 +62,7 @@
      59 - Função strlen
      60 - Função strpos
      61 - Manipulação de Arrays
+     62 - Arrays Associativos
 
 ## Curso de PHP - Exemplos e exercícios
 
