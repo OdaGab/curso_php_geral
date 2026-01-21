@@ -71,6 +71,7 @@
      68 - Função array_unshift
      69 - Função array_pad
      70 - Função array_reverse
+     71 - Função array_keys
 
 ## Curso de PHP - Exemplos e exercícios
 
