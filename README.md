@@ -63,6 +63,7 @@
      60 - Função strpos
      61 - Manipulação de Arrays
      62 - Arrays Associativos
+     63 - Acesso a Arrays
 
 ## Curso de PHP - Exemplos e exercícios
 
