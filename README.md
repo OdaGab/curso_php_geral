@@ -66,7 +66,7 @@
      63 - Acesso a Arrays
      64 - Arrays Multidimensionais
      65 - Função array_push
-
+     66 - Função array_pop
 
 ## Curso de PHP - Exemplos e exercícios
 
