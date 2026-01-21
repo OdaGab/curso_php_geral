@@ -68,7 +68,7 @@
      65 - Função array_push
      66 - Função array_pop
      67 - Função array_shift
-
+     68 - Função array_unshift
 
 ## Curso de PHP - Exemplos e exercícios
 
